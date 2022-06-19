@@ -1,6 +1,7 @@
 EnterGameWindow
   id: enterGame
   @onEnter: EnterGame.doLogin()
+  height: 310
 
   MenuLabel
     !text: tr('Account name')
@@ -24,20 +25,6 @@ EnterGameWindow
 
   PasswordTextEdit
     id: accountPasswordTextEdit
-    anchors.left: parent.left
-    anchors.right: parent.right
-    anchors.top: prev.bottom
-    margin-top: 2
-    
-  MenuLabel
-    !text: tr('Token')
-    anchors.left: prev.left
-    anchors.top: prev.bottom
-    text-auto-resize: true
-    margin-top: 8
-
-  TextEdit
-    id: accountTokenTextEdit
     anchors.left: parent.left
     anchors.right: parent.right
     anchors.top: prev.bottom
@@ -82,7 +69,7 @@ EnterGameWindow
       margin-top: 2
       margin-right: 3
       menu-scroll: true
-      menu-height: 125
+      menu-height: 50
       menu-scroll-step: 25
       text-offset: 5 2
       @onOptionChange: EnterGame.onServerChange()

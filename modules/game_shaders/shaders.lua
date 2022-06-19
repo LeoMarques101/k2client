@@ -12,10 +12,17 @@ function init()
   -- outfit shaders
   g_shaders.createOutfitShader("outfit_default", "/shaders/outfit_default_vertex", "/shaders/outfit_default_fragment")
 
-  g_shaders.createOutfitShader("outfit_rainbow", "/shaders/outfit_rainbow_vertex", "/shaders/outfit_rainbow_fragment")
-  g_shaders.addTexture("outfit_rainbow", "/images/shaders/rainbow.png")
+  g_shaders.createOutfitShader("Rainbow", "/shaders/outfit_rainbow_vertex", "/shaders/outfit_rainbow_fragment")
+  g_shaders.addTexture("Rainbow", "/images/shaders/rainbow.png")
 
   -- you can use creature:setOutfitShader("outfit_rainbow") to set shader
+
+  
+  g_shaders.createOutfitShader("K2", "/shaders/outfit_k2_vertex", "/shaders/outfit_k2_fragment")
+  g_shaders.addTexture("K2", "/images/shaders/K2.png")
+
+  g_shaders.createOutfitShader("test", "/shaders/outfit_test_vertex", "/shaders/outfit_test_fragment")
+  g_shaders.createOutfitShader("crazy", "/shaders/outfit_crazy_vertex", "/shaders/outfit_crazy_fragment")
 
 end
 

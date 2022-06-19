@@ -1,44 +1,1713 @@
-GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
-OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
-[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
 Found work dir at 'D:/OTSERVER/test/k2client/'
-== application started at Mar 30 2022 23:16:44
-K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+== application started at Jun 19 2022 16:25:42
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
 Exiting application..
-GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
-OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
-[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
 Found work dir at 'D:/OTSERVER/test/k2client/'
-== application started at Mar 30 2022 23:16:52
-K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
-ERROR: Missing file: 860/Tibia.dat
-Missing file: 860/Tibia.spr
+== application started at Jun 19 2022 16:29:11
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:34:23
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:35:03
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:48:27
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:51:03
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Exiting application..
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:51:10
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:53:08
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:58:33
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+ERROR: protected lua call failed: /modules/game_outfit/outfit.lua:1304: attempt to index global 'outfitWindow' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:1304: in function 'accept'
+	/data/styles/40-outfitwindow.otui:745: [@onClick]:2: in function </data/styles/40-outfitwindow.otui:745: [@onClick]:1>
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 16:59:45
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 17:07:23
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
 
-You should open data/things and create directory 860.
-In this directory (data/things/860) you should put missing
-files (Tibia.dat and Tibia.spr/Tibia.cwm) from correct Tibia version.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 17:14:04
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Connecting to: 127.0.0.1:7171
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 17:19:57
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 17:41:09
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:09:42
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/ui/panel_bottom2': unable to open file '/images/ui/panel_bottom2.png': not found
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: Unable to load texture '/images/ui/dark_background': unable to open file '/images/ui/dark_background.png': not found
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:14:04
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/ui/panel_bottom2': unable to open file '/images/ui/panel_bottom2.png': not found
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: Unable to load texture '/images/ui/dark_background': unable to open file '/images/ui/dark_background.png': not found
 Exiting application..
 GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
 OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
 [Atlas] Texture size is: 4096x4096 (max: 16384x16384)
 Found work dir at 'D:/OTSERVER/test/k2client/'
-== application started at Mar 30 2022 23:18:09
-K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+== application started at Jun 19 2022 18:14:19
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/ui/panel_bottom2': unable to open file '/images/ui/panel_bottom2.png': not found
 Connecting to: 127.0.0.1:7171
 Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: Unable to load texture '/images/ui/dark_background': unable to open file '/images/ui/dark_background.png': not found
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:15:55
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/ui/panel_bottom2': unable to open file '/images/ui/panel_bottom2.png': not found
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: Unable to load texture '/images/ui/dark_background': unable to open file '/images/ui/dark_background.png': not found
 Login to 127.0.0.1:7172
 ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
 Exiting application..
-GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
-OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
-[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
 Found work dir at 'D:/OTSERVER/test/k2client/'
-== application started at Mar 30 2022 23:18:36
-K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+== application started at Jun 19 2022 18:18:02
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/ui/panel_bottom2': unable to open file '/images/ui/panel_bottom2.png': not found
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:18:27
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/ui/panel_bottom2': unable to open file '/images/ui/panel_bottom2.png': not found
 Connecting to: 127.0.0.1:7171
 Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: Unable to load texture '/images/ui/dark_background': unable to open file '/images/ui/dark_background.png': not found
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:51:09
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:51:17
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:52:08
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:53:08
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:53:48
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+
+
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 18:55:08
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: protected lua call failed: /modules/game_topbar/topbar.lua:387: table index is nil
+stack traceback:
+	[C]: in function '__newindex'
+	/modules/game_topbar/topbar.lua:387: in function 'toggleSkillPanel'
+	/modules/game_topbar/topbar.lua:349: in function 'optionCallback'
+	/modules/corelib/ui/uipopupmenu.lua:63: in function </modules/corelib/ui/uipopupmenu.lua:61>
+ERROR: protected lua call failed: /modules/game_topbar/topbar.lua:387: table index is nil
+stack traceback:
+	[C]: in function '__newindex'
+	/modules/game_topbar/topbar.lua:387: in function 'toggleSkillPanel'
+	/modules/game_topbar/topbar.lua:349: in function 'optionCallback'
+	/modules/corelib/ui/uipopupmenu.lua:63: in function </modules/corelib/ui/uipopupmenu.lua:61>
+ERROR: protected lua call failed: /modules/game_topbar/topbar.lua:387: table index is nil
+stack traceback:
+	[C]: in function '__newindex'
+	/modules/game_topbar/topbar.lua:387: in function 'toggleSkillPanel'
+	/modules/game_topbar/topbar.lua:349: in function 'optionCallback'
+	/modules/corelib/ui/uipopupmenu.lua:63: in function </modules/corelib/ui/uipopupmenu.lua:61>
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 19:48:35
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 19:49:43
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 19:51:02
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 19:58:40
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+
+
+
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:00:07
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:02:59
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+FATAL ERROR: Unable to load module 'game_outfit': /modules/game_outfit/outfit.lua:26: attempt to index global 'EventController' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:26: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:72: in function 'loadModules'
+	/init.lua:89: in main chunk
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:03:19
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+FATAL ERROR: Unable to load module 'game_outfit': /modules/game_outfit/outfit.lua:26: attempt to index global 'EventController' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/modules/game_outfit/outfit.lua:26: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:72: in function 'loadModules'
+	/init.lua:89: in main chunk
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:03:30
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to find module 'game_outfit' required by 'game_interface'
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:04:25
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
 Login to 127.0.0.1:7172
 ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
 Login to 127.0.0.1:7172
 ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:22:09
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:24:15
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: K2
+0(1) : warning C7022: unrecognized profile specifier "highp"
+0(1) : warning C7022: unrecognized profile specifier "precision"
+0(11) : error C1101: ambiguous overloaded function reference "mul(mat3, vec2)"
+    (0) : gp5 superp mat2x3 mul(superp mat2x1, superp mat1x3)
+    (0) : gp5 superp mat2 mul(superp mat2x1, superp mat1x2)
+    (0) : gp5 superp mat2x1 mul(superp mat2x1, superp mat1)
+    (0) : gp5 superp mat1x3 mul(superp mat1x2, superp mat2x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1x2, superp mat2)
+    (0) : gp5 superp mat1 mul(superp mat1x2, superp mat2x1)
+    (0) : gp5 superp mat1x3 mul(superp mat1, superp mat1x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1, superp mat1x2)
+    (0) : gp5 superp mat1 mul(superp mat1, superp mat1)
+    (0) : mat2x3 mul(mat2x1, mat1x3)
+    (0) : mat2 mul(mat2x1, mat1x2)
+    (0) : mat2x1 mul(mat2x1, mat1)
+    (0) : mat1x3 mul(mat1x2, mat2x3)
+    (0) : mat1x2 mul(mat1x2, mat2)
+    (0) : mat1 mul(mat1x2, mat2x1)
+    (0) : mat1x3 mul(mat1, mat1x3)
+    (0) : mat1x2 mul(mat1, mat1x2)
+    (0) : mat1 mul(mat1, mat1)
+    (0) : superp vec1 mul(superp vec1, superp mat1)
+    (0) : superp vec1 mul(superp vec2, superp mat2x1)
+    (0) : superp vec2 mul(superp vec1, superp mat1x2)
+    (0) : superp vec2 mul(superp vec2, superp mat2)
+    (0) : superp vec3 mul(superp vec1, superp mat1x3)
+    (0) : superp vec3 mul(superp vec2, superp mat2x3)
+    (0) : vec1 mul(vec1, mat1)
+    (0) : vec1 mul(vec2, mat2x1)
+    (0) : vec2 mul(vec1, mat1x2)
+    (0) : vec2 mul(vec2, mat2)
+    (0) : vec3 mul(vec1, mat1x3)
+    (0) : vec3 mul(vec2, mat2x3)
+    (0) : vec4 mul(vec2, mat2x4)
+0(12) : error C1068: too much data in type constructor
+0(12) : error C1101: ambiguous overloaded function reference "mul(mat4, vec2)"
+    (0) : gp5 superp mat2x4 mul(superp mat2x1, superp mat1x4)
+    (0) : gp5 superp mat2x3 mul(superp mat2x1, superp mat1x3)
+    (0) : gp5 superp mat2 mul(superp mat2x1, superp mat1x2)
+    (0) : gp5 superp mat2x1 mul(superp mat2x1, superp mat1)
+    (0) : gp5 superp mat1x4 mul(superp mat1x2, superp mat2x4)
+    (0) : gp5 superp mat1x3 mul(superp mat1x2, superp mat2x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1x2, superp mat2)
+    (0) : gp5 superp mat1 mul(superp mat1x2, superp mat2x1)
+    (0) : gp5 superp mat1x4 mul(superp mat1, superp mat1x4)
+    (0) : gp5 superp mat1x3 mul(superp mat1, superp mat1x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1, superp mat1x2)
+    (0) : gp5 superp mat1 mul(superp mat1, superp mat1)
+    (0) : mat2x4 mul(mat2x1, mat1x4)
+    (0) : mat2x3 mul(mat2x1, mat1x3)
+    (0) : mat2 mul(mat2x1, mat1x2)
+    (0) : mat2x1 mul(mat2x1, mat1)
+    (0) : mat1x4 mul(mat1x2, mat2x4)
+    (0) : mat1x3 mul(mat1x2, mat2x3)
+    (0) : mat1x2 mul(mat1x2, mat2)
+    (0) : mat1 mul(mat1x2, mat2x1)
+    (0) : mat1x4 mul(mat1, mat1x4)
+    (0) : mat1x3 mul(mat1, mat1x3)
+    (0) : mat1x2 mul(mat1, mat1x2)
+    (0) : mat1 mul(mat1, mat1)
+    (0) : superp vec1 mul(superp vec1, superp mat1)
+    (0) : superp vec1 mul(superp vec2, superp mat2x1)
+    (0) : superp vec2 mul(superp vec1, superp mat1x2)
+    (0) : superp vec2 mul(superp vec2, superp mat2)
+    (0) : superp vec3 mul(superp vec1, superp mat1x3)
+    (0) : superp vec3 mul(superp vec2, superp mat2x3)
+    (0) : superp vec4 mul(superp vec1, superp mat1x4)
+    (0) : superp vec4 mul(superp vec2, superp mat2x4)
+    (0) : vec1 mul(vec1, mat1)
+    (0) : vec1 mul(vec2, mat2x1)
+    (0) : vec2 mul(vec1, mat1x2)
+    (0) : vec2 mul(vec2, mat2)
+    (0) : vec3 mul(vec1, mat1x3)
+    (0) : vec3 mul(vec2, mat2x3)
+    (0) : vec4 mul(vec1, mat1x4)
+    (0) : vec4 mul(vec2, mat2x4)
+0(13) : error C1101: ambiguous overloaded function reference "mul(mat4, vec2)"
+    (0) : gp5 superp mat2x4 mul(superp mat2x1, superp mat1x4)
+    (0) : gp5 superp mat2x3 mul(superp mat2x1, superp mat1x3)
+    (0) : gp5 superp mat2 mul(superp mat2x1, superp mat1x2)
+    (0) : gp5 superp mat2x1 mul(superp mat2x1, superp mat1)
+    (0) : gp5 superp mat1x4 mul(superp mat1x2, superp mat2x4)
+    (0) : gp5 superp mat1x3 mul(superp mat1x2, superp mat2x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1x2, superp mat2)
+    (0) : gp5 superp mat1 mul(superp mat1x2, superp mat2x1)
+    (0) : gp5 superp mat1x4 mul(superp mat1, superp mat1x4)
+    (0) : gp5 superp mat1x3 mul(superp mat1, superp mat1x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1, superp mat1x2)
+    (0) : gp5 superp mat1 mul(superp mat1, superp mat1)
+    (0) : mat2x4 mul(mat2x1, mat1x4)
+    (0) : mat2x3 mul(mat2x1, mat1x3)
+    (0) : mat2 mul(mat2x1, mat1x2)
+    (0) : mat2x1 mul(mat2x1, mat1)
+    (0) : mat1x4 mul(mat1x2, mat2x4)
+    (0) : mat1x3 mul(mat1x2, mat2x3)
+    (0) : mat1x2 mul(mat1x2, mat2)
+    (0) : mat1 mul(mat1x2, mat2x1)
+    (0) : mat1x4 mul(mat1, mat1x4)
+    (0) : mat1x3 mul(mat1, mat1x3)
+    (0) : mat1x2 mul(mat1, mat1x2)
+    (0) : mat1 mul(mat1, mat1)
+    (0) : superp vec1 mul(superp vec1, superp mat1)
+    (0) : superp vec1 mul(superp vec2, superp mat2x1)
+    (0) : superp vec2 mul(superp vec1, superp mat1x2)
+    (0) : superp vec2 mul(superp vec2, superp mat2)
+    (0) : superp vec3 mul(superp vec1, superp mat1x3)
+    (0) : superp vec3 mul(superp vec2, superp mat2x3)
+    (0) : superp vec4 mul(superp vec1, superp mat1x4)
+    (0) : superp vec4 mul(superp vec2, superp mat2x4)
+    (0) : vec1 mul(vec1, mat1)
+    (0) : vec1 mul(vec2, mat2x1)
+    (0) : vec2 mul(vec1, mat1x2)
+    (0) : vec2 mul(vec2, mat2)
+    (0) : vec3 mul(vec1, mat1x3)
+    (0) : vec3 mul(vec2, mat2x3)
+    (0) : vec4 mul(vec1, mat1x4)
+    (0) : vec4 mul(vec2, mat2x4)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:25:10
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: K2
+0(1) : warning C7022: unrecognized profile specifier "highp"
+0(1) : warning C7022: unrecognized profile specifier "precision"
+0(11) : error C1101: ambiguous overloaded function reference "mul(mat3, vec2)"
+    (0) : gp5 superp mat2x3 mul(superp mat2x1, superp mat1x3)
+    (0) : gp5 superp mat2 mul(superp mat2x1, superp mat1x2)
+    (0) : gp5 superp mat2x1 mul(superp mat2x1, superp mat1)
+    (0) : gp5 superp mat1x3 mul(superp mat1x2, superp mat2x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1x2, superp mat2)
+    (0) : gp5 superp mat1 mul(superp mat1x2, superp mat2x1)
+    (0) : gp5 superp mat1x3 mul(superp mat1, superp mat1x3)
+    (0) : gp5 superp mat1x2 mul(superp mat1, superp mat1x2)
+    (0) : gp5 superp mat1 mul(superp mat1, superp mat1)
+    (0) : mat2x3 mul(mat2x1, mat1x3)
+    (0) : mat2 mul(mat2x1, mat1x2)
+    (0) : mat2x1 mul(mat2x1, mat1)
+    (0) : mat1x3 mul(mat1x2, mat2x3)
+    (0) : mat1x2 mul(mat1x2, mat2)
+    (0) : mat1 mul(mat1x2, mat2x1)
+    (0) : mat1x3 mul(mat1, mat1x3)
+    (0) : mat1x2 mul(mat1, mat1x2)
+    (0) : mat1 mul(mat1, mat1)
+    (0) : superp vec1 mul(superp vec1, superp mat1)
+    (0) : superp vec1 mul(superp vec2, superp mat2x1)
+    (0) : superp vec2 mul(superp vec1, superp mat1x2)
+    (0) : superp vec2 mul(superp vec2, superp mat2)
+    (0) : superp vec3 mul(superp vec1, superp mat1x3)
+    (0) : superp vec3 mul(superp vec2, superp mat2x3)
+    (0) : vec1 mul(vec1, mat1)
+    (0) : vec1 mul(vec2, mat2x1)
+    (0) : vec2 mul(vec1, mat1x2)
+    (0) : vec2 mul(vec2, mat2)
+    (0) : vec3 mul(vec1, mat1x3)
+    (0) : vec3 mul(vec2, mat2x3)
+    (0) : vec4 mul(vec2, mat2x4)
+0(12) : error C1067: too little data in type constructor
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:31:09
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:32:13
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:32:59
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:34:22
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:35:35
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:35:50
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:36:27
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:38:49
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Unable to load texture '/images/shaders/K2.gif': unable to open file '/data/images/shaders/K2.gif.png': not found
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:40:12
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:42:39
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:45:35
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: K2
+0(16) : warning C1503: undefined variable "direction"
+0(16) : warning C1503: undefined variable "speed"
+0(16) : warning C1503: undefined variable "u_Time"
+0(18) : warning C1503: undefined variable "u_Center"
+0(19) : warning C1503: undefined variable "effectTextureSize"
+0(21) : warning C1503: undefined variable "u_Center"
+0(22) : warning C1503: undefined variable "effectTextureSize"
+0(22) : warning C1503: undefined variable "effectTextureSize"
+0(24) : warning C1503: undefined variable "u_Center"
+0(25) : warning C1503: undefined variable "effectTextureSize"
+0(27) : warning C1503: undefined variable "u_Center"
+0(28) : warning C1503: undefined variable "effectTextureSize"
+0(28) : warning C1503: undefined variable "effectTextureSize"
+0(31) : warning C1503: undefined variable "v_TexCoord3"
+0(31) : warning C1503: undefined variable "direction"
+0(31) : warning C1503: undefined variable "u_Time"
+0(31) : warning C1503: undefined variable "speed"
+0(31) : warning C1503: undefined variable "effectTextureSize"
+0(16) : error C1008: undefined variable "direction"
+0(16) : error C1008: undefined variable "speed"
+0(16) : error C1008: undefined variable "u_Time"
+0(18) : error C1008: undefined variable "u_Center"
+0(19) : error C1008: undefined variable "effectTextureSize"
+0(21) : error C1008: undefined variable "u_Center"
+0(22) : error C1008: undefined variable "effectTextureSize"
+0(22) : error C1008: undefined variable "effectTextureSize"
+0(24) : error C1008: undefined variable "u_Center"
+0(25) : error C1008: undefined variable "effectTextureSize"
+0(27) : error C1008: undefined variable "u_Center"
+0(28) : error C1008: undefined variable "effectTextureSize"
+0(28) : error C1008: undefined variable "effectTextureSize"
+0(31) : error C1008: undefined variable "v_TexCoord3"
+0(31) : error C1008: undefined variable "direction"
+0(31) : error C1008: undefined variable "u_Time"
+0(31) : error C1008: undefined variable "speed"
+0(31) : error C1008: undefined variable "effectTextureSize"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:47:53
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: K2
+0(10) : warning C1503: undefined variable "u_Tex1"
+0(10) : warning C1503: undefined variable "v_TexCoord3"
+0(10) : error C1008: undefined variable "u_Tex1"
+0(10) : error C1008: undefined variable "v_TexCoord3"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:48:51
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:50:23
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:51:30
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 20:52:50
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:16:32
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:18:13
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:26:47
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:28:42
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: test
+0(15) : warning C5052: gl_FragColor is not accessible in this profile
+0(15) : warning C1503: undefined variable "u_Tex0"
+0(16) : warning C1503: undefined variable "u_Tex0"
+0(23) : warning C5052: gl_FragColor is not accessible in this profile
+0(15) : error C1008: undefined variable "u_Tex0"
+0(16) : error C1008: undefined variable "u_Tex0"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:29:59
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: test
+0(15) : warning C5052: gl_FragColor is not accessible in this profile
+0(15) : warning C1503: undefined variable "u_Tex0"
+0(16) : warning C1503: undefined variable "u_Tex0"
+0(23) : warning C5052: gl_FragColor is not accessible in this profile
+0(15) : error C1008: undefined variable "u_Tex0"
+0(16) : error C1008: undefined variable "u_Tex0"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:34:26
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:36:03
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:41:48
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: test
+0(11) : error C0000: syntax error, unexpected reserved word "float", expecting '{' at token "float"
+0(16) : warning C7022: unrecognized profile specifier "mediump"
+0(16) : error C0502: syntax error at token "mediump"
+0(16) : warning C1503: undefined variable "millisecs"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:42:48
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: test
+0(7) : error C0000: syntax error, unexpected reserved word "float", expecting '{' at token "float"
+0(12) : warning C7022: unrecognized profile specifier "mediump"
+0(12) : error C0502: syntax error at token "mediump"
+0(12) : warning C1503: undefined variable "millisecs"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:44:18
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: test
+0(11) : warning C7022: unrecognized profile specifier "mediump"
+0(11) : error C0502: syntax error at token "mediump"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:45:00
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:45:23
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:49:02
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:50:43
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Exiting application..
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:51:18
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:52:46
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: failed to compile shader: test
+0(11) : warning C7022: unrecognized profile specifier "lowp"
+0(11) : error C0502: syntax error at token "lowp"
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 21:56:27
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:16:39
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+FATAL ERROR: Unable to load module 'game_shaders': C++ call failed: unable to open file '/shaders/outfit_test_vertex.frag': not found
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'createOutfitShader'
+	/modules/game_shaders/shaders.lua:24: in function 'init'
+	/modules/game_shaders/shaders.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:72: in function 'loadModules'
+	/init.lua:89: in main chunk
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:16:53
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Program 40, crazy linking error (604): Fragment info
+-------------
+0(18) : warning C7011: implicit cast from "vec4" to "vec3"
+0(19) : warning C7011: implicit cast from "vec4" to "vec3"
+0(20) : warning C7011: implicit cast from "vec4" to "vec3"
+0(21) : warning C7011: implicit cast from "vec4" to "vec3"
+0(26) : warning C7011: implicit cast from "vec4" to "vec3"
+0(26) : error C1035: assignment of incompatible types
+0(28) : warning C7011: implicit cast from "vec4" to "vec3"
+0(28) : error C1035: assignment of incompatible types
+0(30) : warning C7011: implicit cast from "vec4" to "vec3"
+0(30) : error C1035: assignment of incompatible types
+ -  - NVIDIA GeForce GTX 1650/PCIe/SSE2 4.6.0 NVIDIA 512.59
+Extensions: GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+ERROR: Render error: 1282 in ShaderProgram::create (crazy) (attribute vec2 a_Vertex;
+attribute vec2 a_TexCoord;
+uniform mat3 u_TextureMatrix;
+varying vec2 v_TexCoord;
+varying vec2 v_TexCoord2;
+uniform mat3 u_TransformMatrix;
+uniform mat3 u_ProjectionMatrix;
+uniform vec2 u_Offset;
+
+void main()
+{
+    gl_Position = vec4((u_ProjectionMatrix * u_TransformMatrix * vec3(a_Vertex.xy, 1.0)).xy, 1.0, 1.0);
+    v_TexCoord = (u_TextureMatrix * vec3(a_TexCoord,1.0)).xy;
+    v_TexCoord2 = (u_TextureMatrix * vec3(a_TexCoord + u_Offset,1.0)).xy;
+}
+
+
+uniform mat4 u_Color;
+varying vec2 v_TexCoord;
+varying vec2 v_TexCoord2;
+uniform sampler2D u_Tex0;
+
+uniform float u_Time;
+
+void main()
+{
+
+    vec3 color0 = vec3(0.0);
+    vec3 color1 = vec3(0.0);
+    vec3 color2 = vec3(0.0);
+    vec3 color3 = vec3(0.0);
+
+    float pct = abs(sin(u_Time));
+
+    color0 = mix(u_Color[0], u_Color[1], pct);
+    color1 = mix(u_Color[1], u_Color[2], pct);
+    color2 = mix(u_Color[2], u_Color[3], pct);
+    color3 = mix(u_Color[3], u_Color[0], pct);
+
+    gl_FragColor = texture2D(u_Tex0, v_TexCoord);
+    vec4 texcolor = texture2D(u_Tex0, v_TexCoord2);
+    if(texcolor.r > 0.9) {
+        gl_FragColor *= texcolor.g > 0.9 ? color0 : color1;
+    } else if(texcolor.g > 0.9) {
+        gl_FragColor *= color2;
+    } else if(texcolor.b > 0.9) {
+        gl_FragColor *= color3;
+    }
+    if(gl_FragColor.a < 0.01) discard;
+
+}
+
+:62)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+ERROR: lua function callback failed: C++ call failed: LUA ERROR: attempt to cast a 'nil' lua value to 'class Position'
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'getSpectatorsInRangeEx'
+	/modules/game_battle/battle.lua:238: in function 'checkCreatures'
+	/modules/game_battle/battle.lua:224: in function </modules/game_battle/battle.lua:221>
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:18:34
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+FATAL ERROR: Unable to load module 'game_shaders': C++ call failed: unable to open file '/shaders/outfit_test_vertex.frag': not found
+stack traceback:
+	[builtin#146]: at 0x013c7530
+	[C]: in function 'createOutfitShader'
+	/modules/game_shaders/shaders.lua:24: in function 'init'
+	/modules/game_shaders/shaders.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:72: in function 'loadModules'
+	/init.lua:89: in main chunk
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:19:14
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+ERROR: Program 40, crazy linking error (604): Fragment info
+-------------
+0(18) : warning C7011: implicit cast from "vec4" to "vec3"
+0(19) : warning C7011: implicit cast from "vec4" to "vec3"
+0(20) : warning C7011: implicit cast from "vec4" to "vec3"
+0(21) : warning C7011: implicit cast from "vec4" to "vec3"
+0(26) : warning C7011: implicit cast from "vec4" to "vec3"
+0(26) : error C1035: assignment of incompatible types
+0(28) : warning C7011: implicit cast from "vec4" to "vec3"
+0(28) : error C1035: assignment of incompatible types
+0(30) : warning C7011: implicit cast from "vec4" to "vec3"
+0(30) : error C1035: assignment of incompatible types
+ -  - NVIDIA GeForce GTX 1650/PCIe/SSE2 4.6.0 NVIDIA 512.59
+Extensions: GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+ERROR: Render error: 1282 in ShaderProgram::create (crazy) (attribute vec2 a_Vertex;
+attribute vec2 a_TexCoord;
+uniform mat3 u_TextureMatrix;
+varying vec2 v_TexCoord;
+varying vec2 v_TexCoord2;
+uniform mat3 u_TransformMatrix;
+uniform mat3 u_ProjectionMatrix;
+uniform vec2 u_Offset;
+
+void main()
+{
+    gl_Position = vec4((u_ProjectionMatrix * u_TransformMatrix * vec3(a_Vertex.xy, 1.0)).xy, 1.0, 1.0);
+    v_TexCoord = (u_TextureMatrix * vec3(a_TexCoord,1.0)).xy;
+    v_TexCoord2 = (u_TextureMatrix * vec3(a_TexCoord + u_Offset,1.0)).xy;
+}
+
+
+uniform mat4 u_Color;
+varying vec2 v_TexCoord;
+varying vec2 v_TexCoord2;
+uniform sampler2D u_Tex0;
+
+uniform float u_Time;
+
+void main()
+{
+
+    vec3 color0 = vec3(0.0);
+    vec3 color1 = vec3(0.0);
+    vec3 color2 = vec3(0.0);
+    vec3 color3 = vec3(0.0);
+
+    float pct = abs(sin(u_Time));
+
+    color0 = mix(u_Color[0], u_Color[1], pct);
+    color1 = mix(u_Color[1], u_Color[2], pct);
+    color2 = mix(u_Color[2], u_Color[3], pct);
+    color3 = mix(u_Color[3], u_Color[0], pct);
+
+    gl_FragColor = texture2D(u_Tex0, v_TexCoord);
+    vec4 texcolor = texture2D(u_Tex0, v_TexCoord2);
+    if(texcolor.r > 0.9) {
+        gl_FragColor *= texcolor.g > 0.9 ? color0 : color1;
+    } else if(texcolor.g > 0.9) {
+        gl_FragColor *= color2;
+    } else if(texcolor.b > 0.9) {
+        gl_FragColor *= color3;
+    }
+    if(gl_FragColor.a < 0.01) discard;
+
+}
+
+:62)
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:22:13
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: protected lua call failed: /modules/game_topbar/topbar.lua:387: table index is nil
+stack traceback:
+	[C]: in function '__newindex'
+	/modules/game_topbar/topbar.lua:387: in function 'toggleSkillPanel'
+	/modules/game_topbar/topbar.lua:349: in function 'optionCallback'
+	/modules/corelib/ui/uipopupmenu.lua:63: in function </modules/corelib/ui/uipopupmenu.lua:61>
+ERROR: protected lua call failed: /modules/game_topbar/topbar.lua:387: table index is nil
+stack traceback:
+	[C]: in function '__newindex'
+	/modules/game_topbar/topbar.lua:387: in function 'toggleSkillPanel'
+	/modules/game_topbar/topbar.lua:349: in function 'optionCallback'
+	/modules/corelib/ui/uipopupmenu.lua:63: in function </modules/corelib/ui/uipopupmenu.lua:61>
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:39:48
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+
+
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:44:43
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:49:31
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:51:48
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 22:59:11
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 23:01:08
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+ERROR: /modules/game_outfit/outfit.lua:772: attempt to index local 'w' (a nil value)
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 23:02:13
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 23:08:56
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+
+
+
+
+
+
+
+
+
+Exiting application..
+GPU NVIDIA GeForce GTX 1650/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 512.59
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Jun 19 2022 23:12:20
+K2Otserver 3.1 rev 225 (dev) made by otclient.net built on Jun  7 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+
+
+
+
+
 Exiting application..
