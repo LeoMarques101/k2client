@@ -1,0 +1,44 @@
+GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Mar 30 2022 23:16:44
+K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+Exiting application..
+GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Mar 30 2022 23:16:52
+K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr/Tibia.cwm) from correct Tibia version.
+Exiting application..
+GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Mar 30 2022 23:18:09
+K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
+GPU ANGLE (NVIDIA GeForce GTX 1650 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'D:/OTSERVER/test/k2client/'
+== application started at Mar 30 2022 23:18:36
+K2Otserver 3.1 rev 158 (dev) made by otclient.net built on Mar 20 2022 for arch x86
+Connecting to: 127.0.0.1:7171
+Login to 127.0.0.1:7172
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Login to 127.0.0.1:7172
+ERROR: Unable to send extended opcode 201, extended opcodes are not enabled on this server.
+Exiting application..
