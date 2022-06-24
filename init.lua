@@ -17,14 +17,17 @@ Services = {
 
 -- Servers accept http login url, websocket login url or ip:port:version
 Servers = {
-  K2Otserver = "k2ot.servegame.com:7171:860",
-  K2Otserver_local = "127.0.0.1:7171:860"
+  K2Otserver_noip = "k2ot.servegame.com:7171:860",
+  K2Otserver_71 = "192.168.1.71:7171:860",
+  K2Otserver_93 = "192.168.1.93:7171:860",
+  K2Otserver_IP = "89.114.27.153:7171:860",
+  K2Otserver_local = "127.0.0.1:7171:860",
 }
 
 --Server = "ws://otclient.ovh:3000/"
 --Server = "ws://127.0.0.1:88/"
 --USE_NEW_ENERGAME = true -- uses entergamev2 based on websockets instead of entergame
-ALLOW_CUSTOM_SERVERS = false -- if true it shows option ANOTHER on server list
+ALLOW_CUSTOM_SERVERS = true -- if true it shows option ANOTHER on server list
 
 g_app.setName("K2Otserver")
 -- CONFIG END

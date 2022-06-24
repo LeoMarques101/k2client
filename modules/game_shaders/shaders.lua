@@ -21,8 +21,14 @@ function init()
   g_shaders.createOutfitShader("K2", "/shaders/outfit_k2_vertex", "/shaders/outfit_k2_fragment")
   g_shaders.addTexture("K2", "/images/shaders/K2.png")
 
-  g_shaders.createOutfitShader("test", "/shaders/outfit_test_vertex", "/shaders/outfit_test_fragment")
-  g_shaders.createOutfitShader("crazy", "/shaders/outfit_crazy_vertex", "/shaders/outfit_crazy_fragment")
+  g_shaders.createOutfitShader("test", "/shaders/outfit_default_vertex", "/shaders/outfit_test_fragment")
+  g_shaders.createOutfitShader("crazy", "/shaders/outfit_default_vertex", "/shaders/outfit_crazy_fragment")
+  g_shaders.createOutfitShader("novo", "/shaders/outfit_default_vertex", "/shaders/outfit_NOVO_fragment")
+  g_shaders.createOutfitShader("test2", "/shaders/outfit_default_vertex", "/shaders/outfit_TEST2_fragment")
+  g_shaders.createOutfitShader("party", "/shaders/outfit_default_vertex", "/shaders/outfit_party_fragment")
+  g_shaders.createOutfitShader("noise", "/shaders/outfit_default_vertex", "/shaders/outfit_noise_fragment")
+  g_shaders.createOutfitShader("jely", "/shaders/outfit_default_vertex", "/shaders/outfit_jely_fragment")
+  g_shaders.createOutfitShader("ghost", "/shaders/outfit_default_vertex", "/shaders/outfit_ghost_fragment")
 
 end
 

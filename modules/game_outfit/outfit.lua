@@ -749,7 +749,7 @@ function showShaders()
     button:setId("outfit_default")
 
     button.outfit:setOutfit({type = tempOutfit.type, addons = tempOutfit.addons, shader = "outfit_default"})
-    button.name:setText("-")
+    button.name:setText("None")
     if tempOutfit.shader == "outfit_default" then
       focused = "outfit_default"
     end
@@ -1301,7 +1301,7 @@ function loadDefaultSettings()
 end
 
 function accept()
-  --[[
+  
   if g_game.getFeature(GamePlayerMounts) then
     local player = g_game.getLocalPlayer()
 
@@ -1316,11 +1316,11 @@ function accept()
       settings.presets[settings.currentPreset].mounted = isMountedChecked
     end
   end
-  ]]--
+  --[[
   if tempOutfit.shader == "outfit_default" then
     tempOutfit.shader = ""
   end
-  print(tempOutfit.name)
+  print(tempOutfit.name)]]--
   g_game.changeOutfit(tempOutfit)
   destroy()
 end
